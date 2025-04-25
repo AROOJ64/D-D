@@ -1,0 +1,44 @@
+Before you the historically correct numbering of the faces.
+
+Roll the dice traveler, try your luck.
+
+6 rpg dnd dice (d4, d6, d8, d10, d12, d20) 3D Models. Non overlapping UV Layout map provided in the package.
+
+Game Ready model with excellent detail.
+
+5 textures in a box
+
+Low Poly + High Poly(no textures) models
+
+Meshes (OBJ,FBX,STL):
+D4 - 20 triangles
+D6 - 44 triangles
+D8 - 44 triangles
+D10 - 36 triangles
+D12 - 36 triangles
+D20 - 20 triangles
+
+2k and 512 resolution textures include:
+Albedo
+Height
+AO
+Metallic
+Normal
+Roughness
+
+Included files:
+Dice.stl (printable)
+Dice.blend
+Dice.fbx
+Dice.obj
+Dice.mtl
+
+Tris only geometries (no quads/ngons).
+
+Easily customizable: UV unwrapped geometries, so you can create new Textures (or modify the existing ones) using the UV Layout maps provided in the package.
+If you have any personal wishes about the model, you can contact me by:
+e-mail: lerrmar@mail.ru
+Instagram: @lerrmar
+You can also leave your wishes in the comments.
+
+P.S. Thank you for buying my models.
